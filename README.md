@@ -1,5 +1,5 @@
 <h3>TRAUMACARE</h3>
-
+<hr>
 <p>Descripción</p>
 <hr>
 <p>
@@ -8,8 +8,9 @@
 	a la empresa y el hogar, brindando soluciones reales a las necesidades
 	de nuestros clientes en áreas primordiales de mayor cobertura
 	afianzándonos principalmente en nuestros servicios de:
-
-	Medicina Ocupacional
-	Medicina Pre-Hospitalaria
-	Seguridad Industrial
+</p>
+<p>
+	1) Medicina Ocupacional
+	2) Medicina Pre-Hospitalaria
+	3) Seguridad Industrial
 </p>
