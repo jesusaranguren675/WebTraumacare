@@ -257,6 +257,7 @@
   animation-name: pulse;
   -webkit-animation-timing-function: ease-in-out;
   animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
 }
 @-webkit-keyframes rubberBand {
   from {
