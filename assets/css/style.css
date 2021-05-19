@@ -546,7 +546,7 @@ section {
 }
 
 .section-title {
-  text-align: center;
+  /* text-align: center; */
   padding-bottom: 30px;
 }
 
@@ -759,9 +759,9 @@ section {
 
 .about .icon-box .title {
   margin-left: 85px;
-  font-weight: 700;
+  font-weight: 500;
   margin-bottom: 10px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .about .icon-box .title a {
